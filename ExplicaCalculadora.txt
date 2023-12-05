@@ -1,0 +1,2 @@
+Este programa es una calculadora que va a poder realizar las operaciones 
+basicas: sumar, restar, multiplicar, dividir.
