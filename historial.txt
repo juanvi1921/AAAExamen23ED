@@ -1,0 +1,330 @@
+    1  git -version
+    2  git init
+    3  git add -all
+    4  git add-all
+    5  git add --all
+    6  git init
+    7  git add -all
+    8  ls
+    9  ls - la
+   10  ls-la
+   11  ls -la
+   12  ls
+   13  cd Desktop/
+   14  pwd
+   15  ls -la
+   16  cd EDrepositorio1/
+   17  git init
+   18  ls -la
+   19  git remote add origin https://github.com/juanvi1921/ED-repositorio1.git
+   20  git commit -m " Primer intento de commit"
+   21  git commit -m " Primer intento de commit"
+   22  git commit -m " Primer intento de commit"
+   23  git init
+   24  git commit -m " Primer intento de commit"
+   25  git add --all
+   26  git commit -m " Primer intento de commit"
+   27  git remote add origin https://github.com/juanvi1921/ED-repositorio1.git
+   28  git push -u origin master
+   29  git add --all
+   30  git commit -m " Primer intento de commit"
+   31  git push -u origin master
+   32  #git -version
+   33  git version
+   34  ls
+   35  cd Desktop/
+   36  ls
+   37  cd EDrepositorio1/
+   38  ls
+   39  git clone https://github.com/jquery/jquery.git
+   40  ls
+   41  cd jquery/
+   42  ls
+   43  git log
+   44  ls
+   45  cd Desktop/
+   46  ls
+   47  cd EDrepositorio1/
+   48  ls
+   49  git status
+   50  git add archivo1.txt 
+   51  git status
+   52  git config --list
+   53  git --global user.name "Juanvi"
+   54  git config --global user.name "Juanvi"
+   55  git config --global user.email "juanvi1921.cursos@gmail.com"
+   56  git init
+   57  ls
+   58  cd Desktop/
+   59  ls
+   60  cd EDrepositorio1/
+   61  cd desktop
+   62  cd Desktop
+   63  ls
+   64  cd Desktop/
+   65  LS
+   66  ED-repositorio1-master/
+   67  LS
+   68  EDrepositorio1/
+   69  cd ED-repositorio1-master/
+   70  mkdir practica2git
+   71  ls
+   72  git init practica2git
+   73  ls
+   74  cd pracrica2git
+   75  cd practica2git/
+   76  nano contenido.txt
+   77  nano contenido.txt
+   78  nano contenido.txt
+   79  nano contenido.txt
+   80  git status
+   81  git add contenido.txt
+   82  git status
+   83  git commit -m "Commit de la practica 2"
+   84  git status
+   85  nano contenido.txt
+   86  nano contenido.txt
+   87  nano contenido.txt
+   88  git status
+   89  git add contenido.txt
+   90  git status
+   91  git commit -m "Segundo commit de la practica 2"
+   92  git status
+   93  git push contenido.txt
+   94  git push
+   95  git push contenido.txt
+   96      git push --set-upstream contenido.txt master
+   97  git commit --amend -m "Añadido la línea de MAC"
+   98  git remote add origin https://github.com/juanvi1921/ED-repositorio1.git
+   99  git push -u origin master
+  100  git pull
+  101  git push -u origin master
+  102  git remote add origin https://github.com/juanvi1921/Pr2t3ED.git
+  103  git remote remove origin
+  104  git remote add origin https://github.com/juanvi1921/Pr2t3ED.git
+  105  git push -u origin master
+  106  ls
+  107  git add --all
+  108  git status
+  109  git commit -m "Commit con imagenes y markdown de practica2"
+  110  git status
+  111  git push -u origin master
+  112  git status
+  113  ls
+  114  cd Desktop/
+  115  ls
+  116  cd ED-repositorio1-master/
+  117  ls
+  118  git init pruebaRamas
+  119  ls
+  120  cd pruebaRamas
+  121  git branch
+  122  nano archivo1Rama
+  123  ls
+  124  git status
+  125  git add
+  126  git add archivo1Rama.txt
+  127  git commit -m "Commit para la prueba de ramas"
+  128  git all
+  129  ls
+  130  git status
+  131  git add archivo1Rama.txt
+  132  ls
+  133  git status
+  134  cd archivo1Rama 
+  135  rm archivo1Rama
+  136  nano archivoA.txt
+  137  git add archivoA.txt
+  138  git commit -m "Commit para la prueba de ramas"
+  139  git status
+  140  git remote add origin https://github.com/juanvi1921/repositorioRama.git
+  141  git status
+  142  git push
+  143  git push archivoA.txt
+  144  ls
+  145  git add archivoA.txt
+  146  git status
+  147  git remote add origin https://github.com/juanvi1921/repositorioRama.git
+  148  git push -u origin master
+  149  git branch ramaB
+  150  git checkout ramaB
+  151  nano archivoB.txt
+  152  git branch ramaC
+  153  git checkout ramaC
+  154  nano archivoC.txt
+  155  git status
+  156  git add archivoC.txt
+  157  git commit -m "Commit para la prueba de rama C"
+  158  git push -u origin ramaC
+  159  git add archivoB.txt
+  160  git commit -m "Commit para la prueba de rama B"
+  161  git push -u origin ramaB
+  162  git commit -m "Commit para la prueba de rama B"
+  163  git push -u origin ramaB
+  164  ls
+  165  cd Desktop/
+  166  ls
+  167  cd ED-repositorio1-master/
+  168  ls
+  169  cd practica2git/
+  170  ls
+  171  nano unidades.txt
+  172  mk dir unidades
+  173  mkdir unidades
+  174  ls
+  175  git branch windows
+  176  git branch ubuntu
+  177  git branch
+  178  git checkout windows
+  179  nano windows1.txt
+  180  ls
+  181  mv windows1.txt unidades/windows1.txt
+  182  ls
+  183  cd unidades/
+  184  ls
+  185  cd windows1.txt 
+  186  nano windows1.txt
+  187  git add windows1.txt 
+  188  git status
+  189  git commit -m "Añadido fichero windows1"
+  190  git status
+  191  git log
+  192  git push
+  193  git push windows1.txt
+  194  ls
+  195  git status
+  196  git push -u origin windows
+  197  git log
+  198  git checkout ubuntu
+  199  nano ubuntu1.txt
+  200  ls
+  201  git add ubuntu1.txt 
+  202  git status
+  203  git commit -m "Añadido fichero ubuntu1"
+  204  git push -u origin ubuntu
+  205  git log
+  206  git checkout windows
+  207  nano windows2.txt
+  208  ls
+  209  git add windows2.txt 
+  210  git commit -m "Añadido windows2.txt"
+  211  git push -u origin windows
+  212  git log
+  213  git diff HEAD^HEAD
+  214  ls
+  215  git diff HEAD^ HEAD
+  216  git diff HEAD~2
+  217  ls
+  218  nano windows2.txt
+  219  git add windows2.txt 
+  220  git commit -m "Añadidas versiones a windows2.txt"
+  221  git push -u origin windows
+  222  git log
+  223  git checkout master
+  224  git merge windows
+  225  git merge ubuntu
+  226  git branch -d windows
+  227  git branch -d ubuntu
+  228  ls
+  229  cd Desktop/
+  230  ls
+  231  git init laboratorioColaborar
+  232  ls
+  233  cd pr2UD5JuanviLlorca/
+  234  git add Pr4LAB.md
+  235  git commit -m "Segundo commit para subir el md"
+  236  git push
+  237  git commit -m "imagenes nuevas"
+  238  git push
+  239  git pull
+  240  git add --all
+  241  git commit -m "imagenes nuevas"
+  242  git push
+  243  ls
+  244  cd Desktop/
+  245  git init AAAExamen23ED
+  246  git remote add origin https://github.com/juanvi1921/AAAExamen23ED.git
+  247  nano ExplicaCalculadora.txt
+  248  cd AAAExamen23ED/
+  249  mkdir NoSubir
+  250  cd NoSubir/
+  251  nano NoSubir.txt
+  252  rm NoSubir.txt
+  253  git status
+  254  git add ExplicaCalculadora.txt
+  255  ls
+  256  cd Desktop/
+  257  ls
+  258  cd AAAExamen23ED/
+  259  ls
+  260  git status
+  261  git add ExplicaCalculadora.txt
+  262  git commit -m "commit de ExplicaCalculadora.txt"
+  263  git push 
+  264  git diff HEAD~2
+  265  git diff HEAD ~2
+  266  git diff HEAD ~ 2
+  267  git diff HEAD~2
+  268  git diff
+  269  git diff HEAD~2
+  270  git branch SUMADORES
+  271  git branch RESTADORES
+  272  git branch 
+  273  git checkout SUMADORES
+  274  git status
+  275  git add --all
+  276  git status
+  277  git add all
+  278  git add 
+  279  git add -all
+  280  git add --all
+  281  git commit -m "commit2"
+  282  git branch SUMADORES
+  283  git checkout SUMADORES
+  284  git add --all
+  285  git commit -m "commit2"
+  286  git push
+  287  git checkout RESTADORES
+  288  git commit -m "commit3"
+  289  git push
+  290  git diff SUMADORES RESTADORES
+  291  git checkout master
+  292  git diff SUMADORES RESTADORES
+  293  git checkout RESTADORES
+  294  git add --all
+  295  git add --all
+  296  git commit -m "commit4"
+  297  git push
+  298  git checkout SUMADORES
+  299  git checkout master
+  300  git checkout SUMADORES
+  301  git diff SUMADORES RESTADORES
+  302  git checkout SUMADORES
+  303  cd Desktop/
+  304  ls
+  305  cd AAAExamen23ED/
+  306  mkdir diferencia_ramas
+  307  git checkout master
+  308  git checkout master
+  309  git commit -m "commit5"
+  310  git branch -d RESTADORES
+  311  git checkout master
+  312  git checkout master
+  313  git branch -d RESTADORES
+  314  git branch -d SUMADORES
+  315  git branch
+  316  git add --all
+  317  git commit -m "commit6"
+  318  git push
+  319  git add --all
+  320  git commit -m "commit7"
+  321  git push
+  322  git reset commit7
+  323  git reset --hard
+  324  git add --all
+  325  git commit -m "commit8"
+  326  git push
+  327  git add --all
+  328  git commit -m "commit9"
+  329  git push
+  330  history > historial.txt
